@@ -10,6 +10,7 @@ I build structured, practical software with clarity and intent — especially fr
 ## Quick Overview
 - Computer Science & Engineering student focused on **clear, intentional software design**
 - Strong interest in **full-stack web development**, with emphasis on **frontend structure, UX, and maintainable code**
+- Actively practicing **Data Structures & Algorithms using C++** to strengthen problem-solving skills
 - Prioritize understanding **why a product exists** and **how it should be designed** over adding flashy features
 - Currently strengthening **MERN stack fundamentals** and exploring **AI & Data Science** to expand problem-solving approaches
 - Believe in **deep learning, deliberate building, and scalable fundamentals**
@@ -17,10 +18,10 @@ I build structured, practical software with clarity and intent — especially fr
 ---
 
 ## Tech stack
-**Languages:** Python, C++, JavaScript  
+**Languages:** C, C++, JavaScript  
 **Frontend:** HTML, CSS, React, Styled-Components  
 **Databases:** SQL  
-**Tools:** Git, GitHub, VS Code, Vercel 
+**Tools:** Git, GitHub, VS Code, Vercel
 
 **Exploring:** AI and DS
 
