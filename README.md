@@ -1,6 +1,6 @@
 # Hi There👋
 
-# Siri
+# Korupolu Siri
 
 Computer Science & Engineering student  
 I build structured, practical software with clarity and intent — especially frontend systems and problem-solving logic.
