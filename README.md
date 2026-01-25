@@ -21,9 +21,9 @@ I build structured, practical software with clarity and intent — especially fr
 **Languages:** C, C++, JavaScript  
 **Frontend:** HTML, CSS, React, Styled-Components  
 **Databases:** SQL  
-**Tools:** Git, GitHub, VS Code, Vercel
+**Tools:** Git, GitHub, VS Code, Vercel  
 
-**Exploring:** AI and DS
+**Exploring:** AI & Data Science
 
 ---
 
@@ -43,7 +43,18 @@ I build structured, practical software with clarity and intent — especially fr
 
 ---
 
-## Links
-- GitHub: https://github.com/Siri-gh2  
-- Portfolio: https://resolute-siri-s-portfolio.vercel.app/  
-- LinkedIn: https://www.linkedin.com/in/korupolusiri
+## Connect with me
+
+<p align="left">
+  <a href="https://github.com/Siri-gh2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://resolute-siri-s-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/korupolusiri" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
+  </a>
+</p>
