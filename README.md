@@ -21,6 +21,7 @@ I build structured, practical software with clarity and intent — especially fr
 **Frontend:** HTML, CSS, React, Styled-Components  
 **Databases:** SQL  
 **Tools:** Git, GitHub, VS Code, Vercel 
+
 **Exploring:** AI and DS
 
 ---
