@@ -8,10 +8,16 @@ I build structured, practical software with clarity and intent — especially fr
 ---
 
 ## Quick Overview
-- Focused on **frontend engineering**: HTML, CSS, JavaScript, React  
-- Strengthening **DSA** and core computing fundamentals  
-- Building projects with emphasis on **readability**, **structure**, and **real use cases**
 
+-Computer Science & Engineering student focused on building clear, intentional software systems
+
+-Strong interest in full-stack web development, with emphasis on frontend structure, UX, and maintainable code
+
+-Prefer understanding why a product exists and how it should be designed over adding flashy features
+
+-Currently strengthening MERN stack fundamentals and exploring AI & Data Science to broaden problem-solving approaches
+
+- Believe in learning deeply, building deliberately, and scaling solutions on solid fundamentals
 ---
 
 ## Tech stack
