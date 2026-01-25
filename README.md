@@ -1,16 +1,14 @@
-## Hi there 👋
-
-# Korupolu Siri
+# Siri
 
 Computer Science & Engineering student  
-I build focused, real-world software projects and enjoy breaking down problems until the solution is clean and correct.
+Focused on software development, frontend engineering, and strong problem-solving fundamentals.
 
 ---
 
-## What I’m working on
-- Frontend development with **HTML, CSS, JavaScript, React**
-- Hackathon projects with clear problem statements and usable outcomes
-- Improving **problem-solving**, **DSA**, and **core CS concepts**
+## Overview
+- Actively building frontend applications using **HTML, CSS, JavaScript, React**
+- Regularly practicing **problem-solving** and core computer science concepts
+- Using Git and GitHub consistently for version control and collaboration
 
 ---
 
@@ -22,19 +20,17 @@ I build focused, real-world software projects and enjoy breaking down problems u
 
 ---
 
-## Featured projects
-- **CampusCopilot** — A campus assistant platform to help students manage academics, planning, and daily college workflows  
-- **EchoLife** — A student lifestyle app for expense tracking, budgeting, savings, and practical financial decisions  
-- **Unfold Me** — A self-alignment and reflection app with journaling, emotional pattern tracking, and progress monitoring
-
----
-
 ## GitHub overview
-![Siri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siri-gh2&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siri-gh2&show_icons=true&theme=default" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siri-gh2&layout=compact&theme=default" height="160"/>
+</p>
 
 ---
 
 ## Links
 - GitHub: https://github.com/Siri-gh2
-- LinkedIn: https://www.linkedin.com/
-
+- Portfolio: https://resolute-siri-s-portfolio.vercel.app/
