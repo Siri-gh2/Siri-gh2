@@ -48,13 +48,19 @@ I build structured, practical software with clarity and intent — especially fr
 <p align="left">
   <a href="https://github.com/Siri-gh2" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32"/>
+    <br/>
+    <sub><b>GitHub</b></sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://resolute-siri-s-portfolio.vercel.app/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>
+    <br/>
+    <sub><b>Portfolio</b></sub>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/korupolusiri" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
+    <br/>
+    <sub><b>LinkedIn</b></sub>
   </a>
 </p>
