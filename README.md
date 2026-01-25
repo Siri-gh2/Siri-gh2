@@ -20,7 +20,7 @@ I build structured, practical software with clarity and intent — especially fr
 **Languages:** Python, C++, JavaScript  
 **Frontend:** HTML, CSS, React, Styled-Components  
 **Databases:** SQL  
-**Tools:** Git, GitHub, VS Code, Vercel
+**Tools:** Git, GitHub, VS Code, Vercel 
 **Exploring:** AI and DS
 
 ---
