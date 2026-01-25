@@ -44,23 +44,6 @@ I build structured, practical software with clarity and intent — especially fr
 ---
 
 ## Connect with me
-
-<p align="center">
-  <a href="https://github.com/Siri-gh2" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/>
-    <br/>
-    <sub>GitHub</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://resolute-siri-s-portfolio.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/>
-    <br/>
-    <sub>Portfolio</sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/korupolusiri" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28"/>
-    <br/>
-    <sub>LinkedIn</sub>
-  </a>
-</p>
+- [GitHub](https://github.com/Siri-gh2)
+- [Portfolio](https://resolute-siri-s-portfolio.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/korupolusiri)
