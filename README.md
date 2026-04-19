@@ -2,7 +2,7 @@
 
 # Korupolu Siri
 
-Aspiring Data Analyst | Computer Science & Engineering Student  
+Aspiring Data Analyst | FSD - MERN | CSE'27 
 
 I work with data to extract insights and solve problems using SQL and Python. Alongside analytics, I also build structured web applications with a focus on clean design and usability.
 
